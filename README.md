@@ -35,10 +35,6 @@ and scalability to your learning environment.
 ## Table of Contents
 
 - [Prerequisites](#prerequisites)
-- [Prepare](#prepare)
-- [Building](#building)
-- [Running](#running)
-- [Configuring](#configuring)
 - [Testing](#testing)
 - [Contributing](#contributing)
 - [Code of Conduct](#code-of-conduct)
